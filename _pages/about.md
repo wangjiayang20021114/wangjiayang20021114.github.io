@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 
     TEL：+86 17710867062/a
-    ADD：莲花路425弄，莲花公寓
+    ADD：莲花路425弄，莲花公寓/a
    COUNTRY：中国，上海，闵行区
 
 news: true  # includes a list of news items
