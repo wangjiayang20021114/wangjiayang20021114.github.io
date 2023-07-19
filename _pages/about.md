@@ -12,7 +12,7 @@ profile:
   address: 
     TEL：+86 17710867062
      
-    ADD：莲花路425弄，莲花公寓
+    ADDRESS：莲花路425弄，莲花公寓
     
     COUNTRY：中国，上海，闵行区
 
