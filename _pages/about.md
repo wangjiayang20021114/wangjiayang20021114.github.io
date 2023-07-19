@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: name：WANG JIAYANG email：2192320461@qq.com
+
 
 profile:
   align: right
