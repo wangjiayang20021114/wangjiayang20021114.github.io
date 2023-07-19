@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: name：WANG JIAYANG email：2192320461@qq.com
+subtitle: Name：WANG JIAYANG Email：2192320461@qq.com Birth：2002.11.14
 
 
 profile:
