@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wangjiayang20021114.github.io/sitemap.xml
