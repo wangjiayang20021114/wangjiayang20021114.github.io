@@ -19,8 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-aaa
+可以熟练使用C语言进行编程，使用sql语句操作数据库，能在指导下在VMware环境中完成Liunx汇编，初步掌握python语言，可熟练使用office等办公软件。精通数据结构，数据库等课程。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+主修数据管理与大数据（理论课结合实验）、数据结构（理论课结合实验）、人工智能基础、软件技术基础、最优化方法、自动控制原理、知识表示与处理（完成了Deepdive关系抽取、LTP与Ontop实践练习）。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
